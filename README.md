@@ -7,9 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of MatrixAnalysis101 is to …
-
-## Installation
+The goal of MatrixAnalysis101 is to … Run some elementary matrix algebra
+proprieties \#\# Installation
 
 You can install the released version of MatrixAnalysis101 from
 [CRAN](https://CRAN.R-project.org) with:
